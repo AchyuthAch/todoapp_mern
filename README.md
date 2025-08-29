@@ -1,5 +1,5 @@
 # todoapp_mern
-TO DO list application using MERN
-
 Screenshot of how to do list app works
-![alt text](image.png)
+
+
+<img width="659" height="235" alt="image" src="https://github.com/user-attachments/assets/9a62fe42-3da0-4aa8-aff8-ab9ef9329856" />
